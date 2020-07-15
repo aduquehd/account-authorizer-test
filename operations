@@ -1,0 +1,9 @@
+{"account": {"active-card": true, "available-limit": 1000, "is-premium": true}}
+{"transaction": {"merchant": "Burger King", "amount": 20.5, "time": "2019-02-13T10:30:00.000Z"}}
+{"transaction": {"merchant": "Burger King", "amount": 50, "time": "2019-02-13T10:30:50.000Z"}}
+{"transaction": {"merchant": "Burger King", "amount": 50, "time": "2019-02-13T10:30:52.000Z"}}
+{"transaction": {"merchant": "Burger King", "amount": 50, "time": "2019-02-13T10:30:53.000Z"}}
+{"transaction": {"merchant": "Burger King", "amount": 50, "time": "2019-02-13T10:31:50.000Z"}}
+{"transaction": {"merchant": "Burger King", "amount": 50, "time": "2019-02-13T10:55:50.000Z"}}
+{"transaction": {"merchant": "Burger King", "amount": 50, "time": "2019-02-13T10:57:50.000Z"}}
+{"transaction": {"merchant": "Habbib's", "amount": 10, "time": "2019-02-13T11:35:00.000Z"}}
